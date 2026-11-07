@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(clerk:*)",
+      "Bash(npx -y clerk@latest:*)",
+      "Bash(npx clerk@latest:*)",
+      "Bash(npx clerk:*)"
+    ]
+  }
+}
